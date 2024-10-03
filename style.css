@@ -1,0 +1,142 @@
+body {
+  background-color: #f2efe8;
+}
+
+.bg-main {
+  background-color: #f2efe8 !important;
+}
+
+.bg-second {
+  background-color: #173b3d !important;
+}
+
+.bg-third {
+  background-color: #d6efd8 !important;
+}
+
+.vh-100 {
+  height: 100vh;
+}
+
+.vh-90 {
+  height: 60vh;
+}
+
+h1 {
+  font-size: 40px !important;
+}
+
+.text-green {
+  color: #173b3d !important;
+}
+
+.btn-custom {
+  background-color: #173b3d;
+  color: #f2efe8;
+  border: 2px solid #173b3d;
+  padding-top: 6px;
+  padding-bottom: 10px;
+}
+
+.btn-custom:hover {
+  background-color: #f2efe8;
+  color: #173b3d;
+  border: 2px solid #173b3d;
+}
+
+.text-white {
+  color: #f2efe8 !important;
+}
+
+.mt-3rem {
+  margin-top: 3rem !important;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #173b3d;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.btn-menu {
+  background-color: #173b3d;
+  color: #f2efe8;
+  padding-top: 5px !important;
+  padding-bottom: 7px !important;
+  border: 2px solid #173b3d;
+}
+
+.btn-menu:hover {
+  background-color: #f2efe8;
+  color: #173b3d;
+  border: 2px solid #173b3d;
+}
+
+.btn-menu:focus {
+  background-color: #f2efe8 !important;
+  color: #173b3d;
+  border: 2px solid #173b3d;
+}
+
+.card-title {
+  font-size: 18px;
+}
+
+.btn-small {
+  background-color: #173b3d;
+  color: #f2efe8;
+  padding-top: 4px !important;
+  padding-bottom: 5px;
+  border: 1px solid #173b3d;
+}
+
+.btn-small:hover {
+  background-color: #f2efe8;
+  color: #173b3d;
+  padding-top: 4px !important;
+  padding-bottom: 5px;
+  border: 1px solid #173b3d;
+}
+
+.disable-text {
+  color: rgb(153, 153, 153);
+  font-style: italic;
+}
+
+.mt-minus {
+  margin-top: -10px;
+}
+
+.img-main {
+  height: 90px;
+  width: 200px;
+  object-fit: contain;
+  margin-bottom: 30px;
+}
+
+.border-success {
+  border-color: #173b3d !important;
+}
+
+.text-beda {
+  font-size: 18px;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #d6efd8;
+}
+
+.accordion-body {
+  padding: 5px;
+}
+
+.spasi {
+  margin-left: 5px;
+}
