@@ -1,0 +1,129 @@
+body {
+  background-color: #f2efe8 !important;
+}
+
+.bg-main {
+  background-color: #f2efe8 !important;
+}
+
+.bg-second {
+  background-color: #173b3d !important;
+}
+
+.bg-third {
+  background-color: #d6efd8 !important;
+}
+
+.text-first {
+  color: #173b3d !important;
+}
+
+.text-second {
+  color: #f2efe8 !important;
+}
+
+.text-disable {
+  color: rgb(151, 151, 151);
+  font-style: italic;
+}
+
+.vh-100 {
+  height: 100vh;
+}
+
+.vh-90 {
+  height: 70vh;
+}
+
+.btn-first {
+  background-color: #173b3d !important;
+  color: #f2efe8 !important;
+  border: 3px solid #173b3d;
+}
+
+.btn-first:hover {
+  background-color: #f2efe8 !important;
+  color: #173b3d !important;
+  border: 3px solid #173b3d;
+}
+
+.navbar-brand {
+  margin-right: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  height: 50px;
+}
+
+.hero {
+  height: 100vh;
+}
+
+.image-hero {
+  height: 100px;
+}
+
+.title {
+  font-size: 3rem;
+}
+
+p {
+  margin-bottom: 0 !important;
+}
+
+.mt-main {
+  margin-top: 80px;
+}
+
+.card2 {
+  background-color: #f2efe8 !important;
+  border: none !important;
+}
+
+.card-body2 {
+  padding: 10px 10px 5px 10px;
+  margin-top: 13px;
+  background: linear-gradient(-45deg, #365e32, #81a263, #173b3d, #d6efd8);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+}
+
+.card-body3 {
+  padding: 10px 10px 5px 10px;
+  margin-top: 13px;
+  background: linear-gradient(-45deg, #c7253e, #e85c0d, #821131, #fabc3f);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+}
+
+.card-body4 {
+  padding: 10px 10px 5px 10px;
+  margin-top: 13px;
+  background: linear-gradient(-45deg, #795757, #664343, #3b3030, #fff0d1);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+}
+
+.in-box {
+  padding: 5px 8px 5px 8px;
+  background-color: #f2efe8;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.location {
+  margin-top: 3px !important;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 16;
+}
